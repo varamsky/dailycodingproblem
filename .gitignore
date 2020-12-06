@@ -1,6 +1,7 @@
 a.out
 
+# for all hidden files
+.*
 
 # pending solutions below
-
 day3.cpp
